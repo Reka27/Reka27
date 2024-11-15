@@ -11,6 +11,7 @@ And hence, I insist on the following statement.
 ### 🌱 About me  
 - I'm a Masters graduate in Computer technology with 4 years of experience in programming.
 - I am currenty on the process of upgrading my technical skills with **_neuefische_**.
+- I love to learn new things say it technology or art.
 - I love to cook and spend time with my family.
 
 ### My Tech stack
